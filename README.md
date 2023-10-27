@@ -32,6 +32,10 @@ Feel free to explore our codebase and contribute to the advancement of the IIT B
 <br>
 Thank you for visiting the IIT Bombay Dashboard repository.
 <h1> Dashboard </h1>
-![Example Image](images/img1.png)
+
+
+![image 1](images/img1.png)
+
 <h1> Pre Loader </h1>
-![Example Image](images/img2.png)
+
+![ Image 2](images/img2.png)
